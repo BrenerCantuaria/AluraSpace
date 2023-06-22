@@ -1,4 +1,4 @@
-import logo from "./logo.png"
+import logo from "./Logo.png"
 import search from "./Lupa.png"
 import styles from "./Cabecalho.module.scss"
 
